@@ -1,19 +1,10 @@
 package claseabstractas;
 
 public abstract class Figura {
-	
-	protected double x;
-	protected double y;
-	
+
+	protected double area;
+
 	protected Figura() {
-		
 	}
-	
-	protected Figura(double x, double y) {
-		this.x=x;
-		this.y=y;
-	}
-	
-	public abstract double calculaAreas();
 
 }
