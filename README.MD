@@ -5,6 +5,7 @@
 #POLIMORFISMO
 ##concepto en programación de Polimorfismo
 ###En programación Java, el polimorfismo es la capacidad de un objeto para tener múltiples formas o comportamientos. Esto se traduce en la posibilidad de crear y utilizar dos o más métodos con el mismo nombre para ejecutar funciones diferentes
+##A partir de un objeto perteneciente a una clase madre, se pueden obtener objetos creados con clases hijas.
 
 #Clases Abstractas.
 ##concepto en programación de clase abstracta.
