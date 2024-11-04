@@ -1,6 +1,6 @@
-package claseeabstractas;
+package claseabstractas;
 
-public class Cuadrado extends Figuras{
+public class Cuadrado extends Figura{
 	
 	private double lado;
 	

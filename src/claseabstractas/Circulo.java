@@ -1,6 +1,6 @@
-package claseeabstractas;
+package claseabstractas;
 
-public class Circulo extends Figuras{
+public class Circulo extends Figura{
 	
 	private double radio;
 	

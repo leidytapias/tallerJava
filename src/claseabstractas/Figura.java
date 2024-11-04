@@ -1,15 +1,15 @@
-package claseeabstractas;
+package claseabstractas;
 
-public abstract class Figuras {
+public abstract class Figura {
 	
 	protected double x;
 	protected double y;
 	
-	protected Figuras() {
+	protected Figura() {
 		
 	}
 	
-	protected Figuras(double x, double y) {
+	protected Figura(double x, double y) {
 		this.x=x;
 		this.y=y;
 	}
