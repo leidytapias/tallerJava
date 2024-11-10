@@ -9,4 +9,4 @@
 
 #Clases Abstractas.
 ##concepto en programación de clase abstracta.
-###Son clases que no pueden ser instranciadas, al menos uno de sus metodos es abstracto, puede ser publica o provada "no protected", se utiliza como molde para la creación de otras clases mediante el proceso de herencia, y cada subclase la va a implementar de forma distinta. una clase solo puede heredar de una sola clase abstracta.
+###Son clases que no pueden ser instanciadas, al menos uno de sus metodos es abstracto, puede ser publica o privada "no protected", se utiliza como molde para la creación de otras clases mediante el proceso de herencia, y cada subclase la va a implementar de forma distinta. una clase solo puede heredar de una sola clase abstracta.

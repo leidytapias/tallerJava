@@ -114,10 +114,10 @@ public class Concesionario extends JFrame {
         JOptionPane.showMessageDialog(this, sb.toString());
     }
 
-    public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> {
-        	Concesionario app = new Concesionario();
-            app.setVisible(true);
-        });
-    }
+	public static void main(String[] args) {
+		SwingUtilities.invokeLater(() -> {
+			Concesionario app = new Concesionario();
+			app.setVisible(true);
+		});
+	}
 }
